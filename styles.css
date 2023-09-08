@@ -1,0 +1,32 @@
+.container{
+    padding: 20px;
+    font-size: 20px;
+    
+}
+.navbar-brand mb-0{
+    font-size: 0px;
+    margin: 100%;
+}
+.alert-danger{
+    margin-top: 10px;
+    font-size: 20px;
+}
+.img_cards{
+    background-color: rgb(94, 92, 92);
+}
+nav.title_1{
+    background-color: rgb(236, 233, 233);
+    padding: 10px;
+}
+button.button_cancelar{
+    background-color: rgba(94, 86, 86, 0.952);
+    color: white;
+}
+button.button_send{
+    background-color: blue;
+    color: white;
+}
+
+.container{
+    border: 1px solid rgb(216, 206, 206);
+}
